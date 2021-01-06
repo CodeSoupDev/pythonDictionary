@@ -1,3 +1,5 @@
+# First project using a json data file and lists
+ 
 import json
 
 data = json.load(open("data.json"))
